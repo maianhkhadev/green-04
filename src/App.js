@@ -12,7 +12,7 @@ function App () {
     <div>
       <header className='d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom'>
         <div className='container'>
-          Green Academy
+          Green
 
           <Link to='/organizations'>
             <span>Organizations</span>
